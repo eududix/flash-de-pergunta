@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filmes',
+    'Qual o nome do ator que usa martelo?',
+    'thor'
 )
 
 criaCartao(
@@ -11,13 +11,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Carros',
+    'Qual o carro mais caro?',
+    'Bugatti La Voiture Noire'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Meu sonho',
+    'Qual é meu maior ssonho',
+    'ter minha casa e conquistar minha familia'
+)
+
+criaCartao(
+    'Estudos',
+    'Qual sua matéria que mais gosta?',
+    'Eu gosto de artes, e ciências'
+)
+
+criaCartao(
+    'tempo livre',
+    'Gosta de fazer oque no tempo livre?',
+    'Dormi, e ir a igreja'
 )
